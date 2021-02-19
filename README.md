@@ -1,4 +1,4 @@
-# Senior_thesis2021
+# Senior Thesis 2021
 
 # Topic: Modeling binary white dwarf evolution
 
